@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Rajeev 😀</h1>
-<h4 align="center">Frontend Developer | React & Next.js Specialist | DevOps Explorer</h4>
+<h4 align="center">FullStack Developer | React & Next.js Specialist | DevOps Explorer | AI | Nest JS</h4>
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-[linkedin]: https://www.linkedin.com/in/rajeev-your-profile
+[linkedin]: https://www.linkedin.com/in/rajeevranjanse/
 [github]: https://github.com/rajeever19
 [leetcode]: https://leetcode.com/your-leetcode-username
 
@@ -71,6 +71,6 @@
 
 ### 🔥 GitHub Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=default" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeever19&show_icons=true&theme=default" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajeever19&theme=default" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeever19&layout=compact" /></p>

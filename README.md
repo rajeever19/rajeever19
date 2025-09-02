@@ -1,21 +1,6 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Rajeev 😀</h1>
-<h4 align="center">FullStack Developer | React & Next.js Specialist | DevOps Explorer | AI | Nest JS</h4>
-
----
-
-### 💻 I'm passionate about:
-* Front-End Development (React.js, Next.js)
-* Mobile App Development (React Native with TypeScript)
-* UI/UX and Clean Design Systems
-* State Management (Jotai, Redux, Zustand)
-* DevOps Practices (CI/CD, Jenkins)
-* Automation Testing (Playwright)
-* Backend Development with Node.js and NestJS
-* Learning AI Agents & Prompt Engineering
-
----
 #### 📫 Let's connect:
 
 [<img align="left" alt="Rajeev | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
@@ -33,6 +18,22 @@
 [email]: mailto:rrsrrsrajeev@gmail.com
 [portfolio]: https://rajeevdev.vercel.app/
 [phone]: tel:+918541849528
+
+<h4 align="center">FullStack Developer | React & Next.js Specialist | DevOps Explorer | AI | Nest JS</h4>
+
+---
+
+### 💻 I'm passionate about:
+* Front-End Development (React.js, Next.js)
+* Mobile App Development (React Native with TypeScript)
+* UI/UX and Clean Design Systems
+* State Management (Jotai, Redux, Zustand)
+* DevOps Practices (CI/CD, Jenkins)
+* Automation Testing (Playwright)
+* Backend Development with Node.js and NestJS
+* Learning AI Agents & Prompt Engineering
+
+---
 
 ### 🚀 Languages and Tools I Use:
 <p align="left">

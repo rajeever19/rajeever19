@@ -16,6 +16,25 @@
 * Learning AI Agents & Prompt Engineering
 
 ---
+#### 📫 Let's connect:
+
+[<img align="left" alt="Rajeev | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Rajeev | GitHub" width="30px" src="https://img.icons8.com/ios-filled/50/000000/github.png" />][github]
+[<img align="left" alt="Rajeev | LeetCode" width="30px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" />][leetcode]
+[<img align="left" alt="Rajeev | Email" width="30px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][email]
+[<img align="left" alt="Rajeev | Portfolio" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-resume-flaticons-lineal-color-flat-icons.png" />][portfolio]
+[<img align="left" alt="Rajeev | Phone" width="30px" src="https://img.icons8.com/color/48/000000/phone.png" />][phone]
+
+<br/>
+
+---
+
+[linkedin]: https://www.linkedin.com/in/rajeevranjanse/
+[github]: https://github.com/rajeever19
+[leetcode]: https://leetcode.com/your-leetcode-username
+[email]: mailto:rrsrrsrajeev@gmail.com
+[portfolio]: https://rajeevdev.vercel.app/
+[phone]: tel:+918541849528
 
 ### 🚀 Languages and Tools I Use:
 <p align="left">
